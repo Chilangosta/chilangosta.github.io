@@ -5,7 +5,7 @@ description: "acta non verba"
 logo: Profile Logo.png # 120x120 px default image used for Twitter summary card
 teaser: Web Teaser.png # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: http://kyletuft.com
 feed:
   path: atom.xml
 
@@ -25,7 +25,7 @@ gems:
 
 # Theme configuration
 
-# remote_theme: skinny-bones-jekyll
+remote_theme: skinny-bones-jekyll
 
 
 # Site owner
